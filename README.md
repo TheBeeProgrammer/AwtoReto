@@ -1,11 +1,11 @@
 # Description :fire:
 > MVVM example, using Rxjava, LiveData, and retrofit for consume API Rest.
 # Architecture :onion:
-> This example is separate by different layers, data, domain, and presentation.
-> Data: Layer responsible for enabling all the interactions with data sources internal and external like remote API.
-> Domain: Home to all the use cases, entities and value objects that describe the domain of the app.
-> Presentation: Home to all the user experience.
->[![Untitled-Diagram-4.png](https://postimg.cc/1nzZgGxz)](https://postimg.cc/Pvsv8TWd)
+> This example is separate by different layers, data, domain, and presentation.<br />
+> Data: Layer responsible for enabling all the interactions with data sources internal and external like remote API.<br />
+> Domain: Home to all the use cases, entities and value objects that describe the domain of the app.<br />
+> Presentation: Home to all the user experience.<br />
+>[![Untitled-Diagram-4.png](https://postimg.cc/1nzZgGxz)](https://postimg.cc/1nzZgGxz)
 # ScreenShots :camera:
 > ![login](https://i.postimg.cc/xC30k2BZ/login.png)
 > ![movies](https://i.postimg.cc/Vvsznh8k/moviedetail.png)
