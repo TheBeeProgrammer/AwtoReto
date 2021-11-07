@@ -15,14 +15,10 @@
 > [![no-network-connection-load.png](https://i.postimg.cc/431QhVpg/no-network-connection-load.png)](https://postimg.cc/yJkZMJfQ)
 # Dependencies :elephant:
 >- Retrofit 2
->- Glide
->- Coroutines
->- Paging 3
->- Room
->- CoroutinesTest
+>- RxJava
+>- Hilt
 # References :books:
->- https://developer.android.com/codelabs/android-paging#0
->- https://developer.android.com/kotlin/flow?hl=es-419
->- https://developer.android.com/topic/libraries/data-binding
+>- http://reactivex.io/documentation
+>- https://developer.android.com/training/dependency-injection/hilt-android?hl=es-419 
 >- https://medium.com/android-dev-hacks/detailed-guide-on-android-clean-architecture-9eab262a9011
 >- https://devexperto.com/tests-corrutinas-flows/
