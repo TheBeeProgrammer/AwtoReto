@@ -5,7 +5,7 @@
 > Data: Layer responsible for enabling all the interactions with data sources internal and external like remote API.<br />
 > Domain: Home to all the use cases, entities and value objects that describe the domain of the app.<br />
 > Presentation: Home to all the user experience.<br />
->[Untitled-Diagram.png](https://postimg.cc/1nzZgGxz)
+>[![Untitled-Diagram.png](https://i.postimg.cc/rm1yPjQ5/Untitled-Diagram.png)](https://postimg.cc/1nzZgGxz)
 # ScreenShots :camera:
 > ![login](https://i.postimg.cc/xC30k2BZ/login.png)
 > ![movies](https://i.postimg.cc/Vvsznh8k/moviedetail.png)
