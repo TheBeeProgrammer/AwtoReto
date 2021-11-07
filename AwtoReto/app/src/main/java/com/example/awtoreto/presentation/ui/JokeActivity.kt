@@ -1,7 +1,8 @@
-package com.example.awtoreto
+package com.example.awtoreto.presentation.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.awtoreto.R
 
 class JokeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

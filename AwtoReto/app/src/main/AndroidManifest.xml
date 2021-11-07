@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AwtoReto">
         <activity
-            android:name=".JokeActivity"
+            android:name=".presentation.ui.JokeActivity"
             android:exported="true"
             android:theme="@style/splashScreenTheme"
             >
