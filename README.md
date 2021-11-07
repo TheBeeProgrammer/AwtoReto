@@ -8,8 +8,8 @@
 
 >[![Untitled-Diagram.png](https://i.postimg.cc/rm1yPjQ5/Untitled-Diagram.png)](https://postimg.cc/1nzZgGxz)
 # Video :camera:
-
-
+>[![ss1.png](https://i.postimg.cc/X7VhFL5t/ss1.png)](https://postimg.cc/SjvDbWDG)
+>[![ss2.png](https://i.postimg.cc/VLDhFtBv/ss2.png)](https://postimg.cc/nC9TFCWf)
 
 # Dependencies :elephant:
 >- Retrofit 2
